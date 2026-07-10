@@ -1,3 +1,3 @@
-# 2027 Per Agri
+# 2027
 
-Pervasive Sensing and Intelligence for Precision Agriculture
+Per Agri: Pervasive Sensing and Intelligence for Precision Agriculture
